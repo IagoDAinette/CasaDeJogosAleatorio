@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "CasaDeJogosAleatorio.Controllers.JogoController",
+    "Method": "Criar",
+    "RelativePath": "api/Jogo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CasaDeJogosAleatorio.DTO.JogoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CasaDeJogosAleatorio.Controllers.JogoController",
+    "Method": "Listar",
+    "RelativePath": "api/Jogo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CasaDeJogosAleatorio.Controllers.JogoController",
+    "Method": "BuscarPorId",
+    "RelativePath": "api/Jogo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CasaDeJogosAleatorio.Controllers.JogoController",
+    "Method": "Atualizar",
+    "RelativePath": "api/Jogo/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CasaDeJogosAleatorio.DTO.JogoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CasaDeJogosAleatorio.Controllers.JogoController",
+    "Method": "Remover",
+    "RelativePath": "api/Jogo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CasaDeJogosAleatorio.Controllers.JogoController",
+    "Method": "Buscar",
+    "RelativePath": "api/Jogo/busca",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "plataforma",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "precoMaximo",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CasaDeJogosAleatorio.Controllers.JogoController",
+    "Method": "RelatorioEstoque",
+    "RelativePath": "api/Jogo/relatorio-estoque",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

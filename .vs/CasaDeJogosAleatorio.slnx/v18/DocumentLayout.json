@@ -1,12 +1,296 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Faculdade\\4semestre\\Challenge\\.NET\\CasaDeJogosAleatorio\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\casadejogosaleatorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:casadejogosaleatorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\casadejogosaleatorio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:casadejogosaleatorio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\services\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:services\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\services\\ijogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:services\\ijogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\repositories\\ijogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:repositories\\ijogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\dto\\relatorioestoquedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:dto\\relatorioestoquedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\dto\\jogoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:dto\\jogoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\model\\relatorioestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:model\\relatorioestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\dto\\jogorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:dto\\jogorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\model\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:model\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|d:\\faculdade\\4semestre\\.net\\casadejogosaleatorio\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80E7B-6227-8D1C-0403-D0C7CDBCD0EC}|CasaDeJogosAleatorio.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CasaDeJogosAleatorio",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\CasaDeJogosAleatorio.csproj",
+              "RelativeDocumentMoniker": "CasaDeJogosAleatorio.csproj",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\CasaDeJogosAleatorio.csproj",
+              "RelativeToolTip": "CasaDeJogosAleatorio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-13T09:25:05.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelatorioEstoqueDto.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\DTO\\RelatorioEstoqueDto.cs",
+              "RelativeDocumentMoniker": "DTO\\RelatorioEstoqueDto.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\DTO\\RelatorioEstoqueDto.cs",
+              "RelativeToolTip": "DTO\\RelatorioEstoqueDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T22:54:52.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RelatorioEstoque.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Model\\RelatorioEstoque.cs",
+              "RelativeDocumentMoniker": "Model\\RelatorioEstoque.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Model\\RelatorioEstoque.cs",
+              "RelativeToolTip": "Model\\RelatorioEstoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T22:50:21.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JogoRepository.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Repositories\\JogoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\JogoRepository.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Repositories\\JogoRepository.cs",
+              "RelativeToolTip": "Repositories\\JogoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T22:47:21.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:57:19.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJogoRepository.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Repositories\\IJogoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IJogoRepository.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Repositories\\IJogoRepository.cs",
+              "RelativeToolTip": "Repositories\\IJogoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T22:55:28.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JogoService.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Services\\JogoService.cs",
+              "RelativeDocumentMoniker": "Services\\JogoService.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Services\\JogoService.cs",
+              "RelativeToolTip": "Services\\JogoService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T22:57:07.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJogoService.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Services\\IJogoService.cs",
+              "RelativeDocumentMoniker": "Services\\IJogoService.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Services\\IJogoService.cs",
+              "RelativeToolTip": "Services\\IJogoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T22:58:26.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JogoController.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Controllers\\JogoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JogoController.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Controllers\\JogoController.cs",
+              "RelativeToolTip": "Controllers\\JogoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T23:05:15.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JogoResponse.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\DTO\\JogoResponse.cs",
+              "RelativeDocumentMoniker": "DTO\\JogoResponse.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\DTO\\JogoResponse.cs",
+              "RelativeToolTip": "DTO\\JogoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T22:15:26.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-12T21:58:42.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JogoRequest.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\DTO\\JogoRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\JogoRequest.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\DTO\\JogoRequest.cs",
+              "RelativeToolTip": "DTO\\JogoRequest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T22:14:29.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Settings\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "Settings\\MongoDbSettings.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Settings\\MongoDbSettings.cs",
+              "RelativeToolTip": "Settings\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T22:00:22.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:58:45.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CasaDeJogosAleatorio.http",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\CasaDeJogosAleatorio.http",
+              "RelativeDocumentMoniker": "CasaDeJogosAleatorio.http",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\CasaDeJogosAleatorio.http",
+              "RelativeToolTip": "CasaDeJogosAleatorio.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-12T21:58:40.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T21:58:29.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Jogo.cs",
+              "DocumentMoniker": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Model\\Jogo.cs",
+              "RelativeDocumentMoniker": "Model\\Jogo.cs",
+              "ToolTip": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\Model\\Jogo.cs",
+              "RelativeToolTip": "Model\\Jogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:55:44.288Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

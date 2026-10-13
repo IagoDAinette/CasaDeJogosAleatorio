@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CasaDeJogosAleatorio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6e9acfcc1a8a4985ad287b2ea14b011517d00e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CasaDeJogosAleatorio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CasaDeJogosAleatorio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

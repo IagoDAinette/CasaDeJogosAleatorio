@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Faculdade\\4semestre\\Challenge\\.NET\\CasaDeJogosAleatorio\\CasaDeJogosAleatorio.csproj": {}
+    "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\CasaDeJogosAleatorio.csproj": {}
   },
   "projects": {
-    "D:\\Faculdade\\4semestre\\Challenge\\.NET\\CasaDeJogosAleatorio\\CasaDeJogosAleatorio.csproj": {
+    "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\CasaDeJogosAleatorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Faculdade\\4semestre\\Challenge\\.NET\\CasaDeJogosAleatorio\\CasaDeJogosAleatorio.csproj",
+        "projectUniqueName": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\CasaDeJogosAleatorio.csproj",
         "projectName": "CasaDeJogosAleatorio",
-        "projectPath": "D:\\Faculdade\\4semestre\\Challenge\\.NET\\CasaDeJogosAleatorio\\CasaDeJogosAleatorio.csproj",
+        "projectPath": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\CasaDeJogosAleatorio.csproj",
         "packagesPath": "C:\\Users\\iagoa\\.nuget\\packages\\",
-        "outputPath": "D:\\Faculdade\\4semestre\\Challenge\\.NET\\CasaDeJogosAleatorio\\obj\\",
+        "outputPath": "D:\\Faculdade\\4semestre\\.NET\\CasaDeJogosAleatorio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,13 +52,29 @@
           "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[9.0.20, )"
-            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.24.2-preview.1, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[10.3.0, )"
             }
           },
           "imports": [
